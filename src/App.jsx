@@ -1,11 +1,13 @@
 import React from 'react'
-import Counter from './components/Counter'
+// import Counter from './components/Counter'
 import TodoList from './components/TodoList'
+// import StudentList from './components/StudentList'
 
 const App = () => {
   return (
     <div>
-      <Counter/>
+      {/* <StudentList/> */}
+      {/* <Counter/> */}
       <TodoList/>
     </div>
   )
